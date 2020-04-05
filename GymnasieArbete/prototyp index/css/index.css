@@ -1,0 +1,33 @@
+body{padding: 0; margin: 0; background-image: url("../img/index-wall.jpg"); background-repeat: no-repeat; background-size: cover;}
+/*
+.header{width: 150vh; height: 15vh; background: white;
+border-bottom: solid 3px; float: right;}
+
+.linkBox{width: 13vw; height: 100vh; float: left;
+border-right: solid 3px;}
+
+.box{float: left; width: 100%; height:15vh;
+margin-top: 4vh; border: solid 1px;} .Protocol{margin-top: 20vh;}
+
+.body{width: 85vw; height: 85vh; float: left;}
+.main{width: 65vw; height: 65vh; border: solid 4px; margin: auto; margin-top: 10vh;}
+
+.bottom{width: 100vw; height: 20vh; border-top: solid 4px; float: left;}
+*/
+
+.header{width: auto; height: 15vh; background: #E7E1DA;
+border-bottom: solid 3px;}
+
+.linkBox{width: 13vw; height: 85vh; float: left; background: rgba(231,225,218, 0.9);
+border-right: solid 3px;}
+
+.box{float: left; width: 100%; height:15vh;
+margin-top: 4vh; border: solid 1px;}
+
+.body{width: 85vw; height: 85vh; float: left;}
+
+.main{width: 65vw; height: 70vh; border: solid 2px; background:radial-gradient(ellipse at center, rgba(232,219,195,0.35) 0%, rgba(232,219,195,0.87) 81%, rgba(232,232,232,1) 100%);
+  /* background: radial-gradient(#fbf8f5 30%, #e7ddcd 100%);*/
+margin: auto; margin-top: 5vh !important;}
+
+.bottom{width: 100vw; height: 20vh; border-top: solid 4px; float: left; background: radial-gradient(#E7E1DA 60%, #012d0a 100%);}

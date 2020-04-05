@@ -1,0 +1,30 @@
+body{margin: 0; padding: 0;}
+/*.body2{background-image: url("../img/normal.jpg"); background-size: cover;}*/
+.body{background-image: url("../img/imp-index-wall.jpg"); background-repeat: no-repeat; background-size: 100vw 100vh;}
+
+.headerbox{height: 15vh; border-bottom: solid 4px; background: #F7F6F3;}
+.header{height: 15vh; border-bottom: solid 4px; background: #F7F6F3;}
+.imgbox{width: 100%; height: 100%; background-image: url("../img/logo.jpg"); background-size: contain; background-repeat: no-repeat; margin: 5px !important;}
+.imgbox2{width: 50px; height: 50px; background-image: url("../img/logo.jpg"); background-size: contain; background-repeat: no-repeat; margin: 5px !important;}
+/*.titel{color: black; text-align: center; margin-top: 30px; text-decoration: underline;}*/
+
+.titel{text-decoration: underline; font-size: 40px; color: black;} .titel:hover{color: black;}
+.titelbox{width: 80%; height: 100%; max-width: 850px; margin: auto; padding: 1rem 0;
+    padding-top: 1rem;  padding-right: 0px;  padding-bottom: 1rem;  padding-left: 0px;}
+.logo{width: 12vh; height: 12vh; border-radius: 10px;}
+ul{list-style: none; display: flex; align-items: center; justify-content: space-between;;}
+li{display: list-item; text-align: match-parent;}
+
+.linkBody{height: 85vh; border-right: solid 4px; background: #F7F6F3; margin: 0; padding: 0;}
+.box{float: left; width: 110%; height:10vh; margin-top: 5vh; border-radius: 20px; background: rgb(0,0,0,0.6);} .box:hover{background: rgb(0,0,0,0.8);}
+.linkText{font-size: 25px; padding: 10px; color: white;} .x{font-size: 25px;} .y{margin-top: 15px;}
+
+.contentbody{height: 85vh; border: solid 1px; margin: 0; padding: 0;}
+.contentbox{width: 70%; height: 60vh; background: rgb(0,0,0,0.6); margin: auto; margin-top: 15vh;}
+
+
+.contentbox2{width: 70%; height: 235vh; background: rgb(0,0,0,0.7); margin: auto; margin-top: 25vh;}
+.wel{color: white; text-align: center;} .info{color: white; text-align: center;}
+
+
+.bottom{height: 15vh; width: 100%; border-top: solid 6px; background: rgb(0,0,0,0.8);}
